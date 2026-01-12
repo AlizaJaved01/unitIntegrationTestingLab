@@ -1,15 +1,14 @@
-# Lab-09 Unit & Integration Testing
+# Lab-09: Unit & Integration Testing with PyTest
 
-**Name:** Aliza Javed  
-**Roll No:** 231400086  
+## Student Information
+**Name:**Aliza Javed
+**Roll Number:** 231400086  
 
 ## Project Description
-This project demonstrates unit testing and integration testing using the PyTest framework on a simple Python banking application. It also uses GitHub Actions for Continuous Integration (CI) to automatically run tests on every push and pull request.
+This project demonstrates unit testing and integration testing using PyTest
+for a simple banking application. GitHub Actions is used to automate test
+execution through Continuous Integration (CI).
 
-## Technologies Used
-- Python 3.x
-- PyTest
-- PyTest-HTML
-- GitHub Actions
+## How to Run Tests
+Install dependencies:
 
-## Project Structure
